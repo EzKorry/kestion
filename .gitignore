@@ -1,0 +1,5 @@
+*.log
+*.imi
+temp/
+build/
+app/
